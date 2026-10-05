@@ -55,3 +55,4 @@ Join our community of developers creating universal apps.
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
 - [Video giải thích code]: https://drive.google.com/file/d/1S-yV1qjcCtTpHdaaI2sYZPzCf2qXD0kx/view?usp=sharing
+- [Video giai thich code]: https://drive.google.com/drive/folders/1t1hO26O2lqTqkdwRHmCViS7-BfvuZs5B?usp=sharing
